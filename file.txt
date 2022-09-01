@@ -1,0 +1,2 @@
+1st Sept 22
+This is our first git session
