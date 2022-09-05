@@ -1,2 +1,3 @@
 1st Sept 22
 This is our first git session
+today is 2nd session
